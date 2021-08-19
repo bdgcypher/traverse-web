@@ -22,34 +22,34 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>About Us</h2>
-                        <Link to='/sign-up'>How it works</Link>
-                        <Link to='/sign-up'>Testimonials</Link>
-                        <Link to='/sign-up'>Careers</Link>
-                        <Link to='/sign-up'>Investors</Link>
-                        <Link to='/sign-up'>Terms of Service</Link>
+                        <Link to='/traverse-web/sign-up'>How it works</Link>
+                        <Link to='/traverse-web/sign-up'>Testimonials</Link>
+                        <Link to='/traverse-web/sign-up'>Careers</Link>
+                        <Link to='/traverse-web/sign-up'>Investors</Link>
+                        <Link to='/traverse-web/sign-up'>Terms of Service</Link>
                     </div>
                     <div className="footer-link-items">
                         <h2>Discover</h2>
-                        <Link to='/sign-up'>Products</Link>
-                        <Link to='/sign-up'>Deals</Link>
-                        <Link to='/sign-up'>Destinations</Link>
-                        <Link to='/sign-up'>Payment Options</Link>
+                        <Link to='/traverse-web/sign-up'>Products</Link>
+                        <Link to='/traverse-web/sign-up'>Deals</Link>
+                        <Link to='/traverse-web/sign-up'>Destinations</Link>
+                        <Link to='/traverse-web/sign-up'>Payment Options</Link>
                     </div>
                 </div>
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>Contact Us</h2>
-                        <Link to='/sign-up'>Contact</Link>
-                        <Link to='/sign-up'>Support</Link>
-                        <Link to='/sign-up'>Sponsorships</Link>
+                        <Link to='/traverse-web/sign-up'>Contact</Link>
+                        <Link to='/traverse-web/sign-up'>Support</Link>
+                        <Link to='/traverse-web/sign-up'>Sponsorships</Link>
                     </div>
                     <div className="footer-link-items">
                         <h2>Social Media</h2>
-                        <Link to='/sign-up'>Facebook</Link>
-                        <Link to='/sign-up'>Instagram</Link>
-                        <Link to='/sign-up'>Youtube</Link>
-                        <Link to='/sign-up'>Twitter</Link>
-                        <Link to='/sign-up'>LinkedIn</Link>
+                        <Link to='/traverse-web/sign-up'>Facebook</Link>
+                        <Link to='/traverse-web/sign-up'>Instagram</Link>
+                        <Link to='/traverse-web/sign-up'>Youtube</Link>
+                        <Link to='/traverse-web/sign-up'>Twitter</Link>
+                        <Link to='/traverse-web/sign-up'>LinkedIn</Link>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='/'
+              to='/traverse-web'
               target='_blank'
               aria-label='Facebook'
             >
@@ -73,7 +73,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/'
+              to='/traverse-web'
               target='_blank'
               aria-label='Instagram'
             >
@@ -81,7 +81,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link youtube'
-              to='/'
+              to='/traverse-web'
               target='_blank'
               aria-label='Youtube'
             >
@@ -89,7 +89,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='/traverse-web'
               target='_blank'
               aria-label='Twitter'
             >
@@ -97,7 +97,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='/traverse-web'
               target='_blank'
               aria-label='LinkedIn'
             >

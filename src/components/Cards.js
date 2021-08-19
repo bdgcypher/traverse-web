@@ -24,7 +24,7 @@ function Cards() {
                             src={Img2}
                             text="Live the outdoor dream of rowing accross the mountain lakes of Alaska"
                             label="Relaxation"
-                            path="/services"
+                            path="/traverse-web/services"
                         />
                     </ul>
                     <ul className="card__items">
@@ -32,19 +32,19 @@ function Cards() {
                             src={Img1}
                             text="See a whole new horizon from the coast of New York City"
                             label="Discovery"
-                            path="/services"
+                            path="/traverse-web/services"
                         />
                         <CardItem
                             src={Img5}
                             text="Be Astounded by the natural beauty of Arches National Park in Southern Utah, USA"
                             label="Adventure"
-                            path="/services"
+                            path="/traverse-web/services"
                         />
                         <CardItem
                             src={Img10}
                             text="Travel through the Incredible Islands of Bali on a 15 day private cruise"
                             label="Luxury"
-                            path="/services"
+                            path="/traverse-web/services"
                         />
                     </ul>
                 </div>

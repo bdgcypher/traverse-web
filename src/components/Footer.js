@@ -61,7 +61,7 @@ function Footer() {
               <i class="fas fa-route"/>
             </Link>
           </div>
-          <small class='website-rights'>TRVSE © 2020</small>
+          <small class='website-rights'>TRVSE © {new Date().getFullYear()}</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

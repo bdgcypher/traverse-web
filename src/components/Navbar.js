@@ -31,7 +31,13 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/traverse-web/" className="navbar-logo" onClick={closeMobileMenu}>
-                        TRVSE <i className="fas fa-route"></i>
+                        TR<i class="fas fa-mountain"></i>
+                    </Link>
+                    <Link to="/traverse-web/" className="navbar-logo" onClick={closeMobileMenu}>
+                        VR <i className="fas fa-route"></i>
+                    </Link>
+                    <Link to="/traverse-web/" className="navbar-logo" onClick={closeMobileMenu}>
+                        E
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fa fa-bars'} />

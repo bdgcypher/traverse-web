@@ -57,11 +57,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVSE
-              <i class="fas fa-route"/>
+              TR<i class="fas fa-mountain"></i>VR
+              <i class="fas fa-route"/>E
             </Link>
           </div>
-          <small class='website-rights'>TRVSE © {new Date().getFullYear()}</small>
+          <small class='website-rights'>TRAVRSE © {new Date().getFullYear()}</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

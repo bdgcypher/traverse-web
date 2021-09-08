@@ -31,7 +31,23 @@
     margin: 0 1rem;
     border-radius: 10px;
     background: #fff;
+
+    
   }
+
+  @media screen and (max-width: 768px) {
+      .card__item {
+        width: 100%;
+        margin: 0;
+      }
+  }
+
+  @media screen and (max-width: 480px) {
+    .card__item {
+      width: 120%;
+      margin: -1rem;
+    }
+}
   
   .card__item__link {
     display: flex;

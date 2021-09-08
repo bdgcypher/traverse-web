@@ -6,11 +6,13 @@ import Home from './components/pages/Home';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/Signup';
+import Loader from './components/Loader';
 
 function App() {
   return (
     <>
       <Router>
+        <Loader />
         <Navbar />
         <Switch>
           <Route path="/traverse-web/" exact  component={Home}/>

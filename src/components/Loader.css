@@ -5,8 +5,14 @@
     height: 100%;
     width: 100%;
     background: #404456;
+    z-index: 50;
     transition: all 1s;
     transition-delay: 2s;
+}
+
+#background.loaded {
+    z-index: 0;
+    opacity: 0;
 }
 
 #loader {
@@ -87,8 +93,4 @@
   100% {
     transform: translate(0, -1em) rotate(-225deg);
   }
-}
-
-.loaded {
-    opacity: 0;
 }

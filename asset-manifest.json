@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bdgcypher.github.io/traverse-web/static/css/main.562f3b22.chunk.css",
+    "main.css": "/bdgcypher.github.io/traverse-web/static/css/main.d0b53c98.chunk.css",
     "main.js": "/bdgcypher.github.io/traverse-web/static/js/main.d613c53f.chunk.js",
     "main.js.map": "/bdgcypher.github.io/traverse-web/static/js/main.d613c53f.chunk.js.map",
     "runtime-main.js": "/bdgcypher.github.io/traverse-web/static/js/runtime-main.cb1d5bc9.js",
@@ -8,7 +8,7 @@
     "static/js/2.e1b37fde.chunk.js": "/bdgcypher.github.io/traverse-web/static/js/2.e1b37fde.chunk.js",
     "static/js/2.e1b37fde.chunk.js.map": "/bdgcypher.github.io/traverse-web/static/js/2.e1b37fde.chunk.js.map",
     "index.html": "/bdgcypher.github.io/traverse-web/index.html",
-    "static/css/main.562f3b22.chunk.css.map": "/bdgcypher.github.io/traverse-web/static/css/main.562f3b22.chunk.css.map",
+    "static/css/main.d0b53c98.chunk.css.map": "/bdgcypher.github.io/traverse-web/static/css/main.d0b53c98.chunk.css.map",
     "static/js/2.e1b37fde.chunk.js.LICENSE.txt": "/bdgcypher.github.io/traverse-web/static/js/2.e1b37fde.chunk.js.LICENSE.txt",
     "static/media/img-1.df51b2d5.jpg": "/bdgcypher.github.io/traverse-web/static/media/img-1.df51b2d5.jpg",
     "static/media/img-10.0886a85b.jpg": "/bdgcypher.github.io/traverse-web/static/media/img-10.0886a85b.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.cb1d5bc9.js",
     "static/js/2.e1b37fde.chunk.js",
-    "static/css/main.562f3b22.chunk.css",
+    "static/css/main.d0b53c98.chunk.css",
     "static/js/main.d613c53f.chunk.js"
   ]
 }
